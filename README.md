@@ -71,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ☆*:.｡. o(≧▽≦)o .｡.:*☆
 
-Thank you I really enjoyed your awesome content!
+<img src="https://res.cloudinary.com/djnhw4aey/image/upload/v1648116476/qrcode_eywawl.gif" width="400">
+
+### Thank you I really enjoyed your awesome content!
 
 [Build a QR Code Generator in React and TailwindCSS](https://www.youtube.com/watch?v=z_CB9-2zzdY)
